@@ -7,7 +7,7 @@ ootdzip@gmail.com
 
 ## 프론트엔드
 권낙현 - knh6269@gmail.com <br/>
-정연휘
+정연휘 - wjddusgnl676@naver.com
 
 ## 백엔드
 김강민 <br/>
